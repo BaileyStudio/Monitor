@@ -25,5 +25,9 @@ status-website:
     - title: Bailey Studio
       href: https://www.bailey.studio
 
+i18n: 
+  footer: Status updates every 5 minutes, powered by Github
+  
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
