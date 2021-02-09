@@ -6,30 +6,23 @@ repo: Monitor # Your GitHub repository name
 sites:
   - name: Bailey Stdio
     url: https://www.bailey.studio
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
+  - name: Warranty.Buildsafe.co.uk
+    url: https://warranty.buildsafe.co.uk
  
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # Uncomment the following line if you don't have a custom domain and add your repo name
   cname: status.bailey.studio
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: http://bailey.studio/assets/images/logo/bs@2x.png
   name: Status Monitor
   introTitle: "**Status Monitor** powered entirely by GitHub."
   introMessage: This is a status page which uses **real-time** data
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Bailey Studio
+      href: https://www.bailey.studio
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
