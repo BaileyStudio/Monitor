@@ -4,8 +4,8 @@ repo: Monitor # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Bailey Stdio
+    url: https://www.bailey.studio
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
