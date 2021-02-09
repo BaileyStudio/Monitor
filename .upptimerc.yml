@@ -4,7 +4,7 @@ repo: Monitor # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Bailey Stdio
+  - name: Bailey Studio
     url: https://www.bailey.studio
   - name: Warranty.Buildsafe.co.uk
     url: https://warranty.buildsafe.co.uk
