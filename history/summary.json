@@ -4,18 +4,20 @@
     "url": "https://www.bailey.studio",
     "icon": "https://favicons.githubusercontent.com/www.bailey.studio",
     "slug": "bailey-studio",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 504,
-    "timeDay": 504,
-    "timeWeek": 504,
-    "timeMonth": 504,
-    "timeYear": 504,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 464,
+    "timeDay": 464,
+    "timeWeek": 464,
+    "timeMonth": 464,
+    "timeYear": 464,
+    "dailyMinutesDown": {
+      "2021-02-09": 0
+    }
   },
   {
     "name": "Warranty.Buildsafe.co.uk",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2158,
-    "timeDay": 2158,
-    "timeWeek": 2158,
-    "timeMonth": 2158,
-    "timeYear": 2158,
+    "time": 2242,
+    "timeDay": 2242,
+    "timeWeek": 2242,
+    "timeMonth": 2242,
+    "timeYear": 2242,
     "dailyMinutesDown": {}
   }
 ]
