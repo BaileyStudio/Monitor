@@ -4,7 +4,7 @@
     "url": "https://www.bailey.studio",
     "icon": "https://favicons.githubusercontent.com/www.bailey.studio",
     "slug": "bailey-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
     "uptimeDay": "98.33%",
     "uptimeWeek": "99.58%",
@@ -41,7 +41,7 @@
     "time": 1935,
     "timeDay": 1619,
     "timeWeek": 1669,
-    "timeMonth": 1935,
+    "timeMonth": 1933,
     "timeYear": 1935,
     "dailyMinutesDown": {}
   }
