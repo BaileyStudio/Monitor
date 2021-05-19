@@ -1,7 +1,7 @@
 url: https://www.bailey.studio
-status: up
-code: 200
-responseTime: 309
-lastUpdated: 2021-05-18T23:04:42.727Z
+status: down
+code: 503
+responseTime: 2373
+lastUpdated: 2021-05-19T14:45:54.781Z
 startTime: Tue Feb 09 2021 08:57:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
