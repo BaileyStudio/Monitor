@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.56%",
     "time": 671,
-    "timeDay": 458,
-    "timeWeek": 536,
-    "timeMonth": 445,
+    "timeDay": 433,
+    "timeWeek": 547,
+    "timeMonth": 448,
     "timeYear": 690,
     "dailyMinutesDown": {
       "2022-02-28": 494,
@@ -86,8 +86,7 @@
       "2021-05-24": 30,
       "2021-05-23": 57,
       "2021-05-19": 56,
-      "2021-05-17": 31,
-      "2021-05-16": 48
+      "2021-05-17": 31
     }
   },
   {
@@ -96,15 +95,15 @@
     "icon": "https://favicons.githubusercontent.com/warranty.buildsafe.co.uk",
     "slug": "warranty-buildsafe-co-uk",
     "status": "up",
-    "uptime": "97.43%",
+    "uptime": "97.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.77%",
-    "time": 1762,
-    "timeDay": 1640,
+    "time": 1761,
+    "timeDay": 1622,
     "timeWeek": 1737,
-    "timeMonth": 1663,
+    "timeMonth": 1664,
     "timeYear": 1740,
     "dailyMinutesDown": {
       "2022-02-13": 31,
