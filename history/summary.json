@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.bailey.studio",
     "slug": "bailey-studio",
     "status": "up",
-    "uptime": "98.80%",
+    "uptime": "98.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.56%",
+    "uptimeYear": "98.57%",
     "time": 671,
-    "timeDay": 433,
-    "timeWeek": 547,
+    "timeDay": 481,
+    "timeWeek": 567,
     "timeMonth": 448,
-    "timeYear": 690,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2022-02-28": 494,
       "2022-02-27": 1440,
@@ -85,8 +85,7 @@
       "2021-05-28": 194,
       "2021-05-24": 30,
       "2021-05-23": 57,
-      "2021-05-19": 56,
-      "2021-05-17": 31
+      "2021-05-19": 56
     }
   },
   {
@@ -101,10 +100,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.77%",
     "time": 1761,
-    "timeDay": 1622,
-    "timeWeek": 1737,
-    "timeMonth": 1664,
-    "timeYear": 1740,
+    "timeDay": 1552,
+    "timeWeek": 1731,
+    "timeMonth": 1663,
+    "timeYear": 1739,
     "dailyMinutesDown": {
       "2022-02-13": 31,
       "2022-02-12": 18,
