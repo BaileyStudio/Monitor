@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/www.bailey.studio",
     "slug": "bailey-studio",
     "status": "up",
-    "uptime": "98.93%",
+    "uptime": "98.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.69%",
     "time": 671,
-    "timeDay": 765,
-    "timeWeek": 661,
+    "timeDay": 372,
+    "timeWeek": 632,
     "timeMonth": 563,
     "timeYear": 702,
     "dailyMinutesDown": {
@@ -72,8 +72,7 @@
       "2021-08-04": 55,
       "2021-07-30": 23,
       "2021-07-22": 110,
-      "2021-07-17": 19,
-      "2021-07-13": 98
+      "2021-07-17": 19
     }
   },
   {
@@ -82,14 +81,14 @@
     "icon": "https://favicons.githubusercontent.com/warranty.buildsafe.co.uk",
     "slug": "warranty-buildsafe-co-uk",
     "status": "up",
-    "uptime": "97.71%",
+    "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "96.76%",
-    "time": 1753,
-    "timeDay": 2126,
-    "timeWeek": 1900,
+    "time": 1752,
+    "timeDay": 1600,
+    "timeWeek": 1857,
     "timeMonth": 1785,
     "timeYear": 1744,
     "dailyMinutesDown": {
