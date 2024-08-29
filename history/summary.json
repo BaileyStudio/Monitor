@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bailey.studio.ico",
     "slug": "bailey-studio",
     "status": "up",
-    "uptime": "82.57%",
+    "uptime": "82.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "39.65%",
-    "time": 620,
-    "timeDay": 471,
-    "timeWeek": 716,
-    "timeMonth": 659,
-    "timeYear": 642,
+    "time": 617,
+    "timeDay": 345,
+    "timeWeek": 586,
+    "timeMonth": 655,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2024-06-30": 1072,
       "2024-06-29": 1440,
@@ -236,8 +236,7 @@
       "2023-09-03": 1440,
       "2023-09-02": 1440,
       "2023-09-01": 1440,
-      "2023-08-31": 1440,
-      "2023-08-30": 1440
+      "2023-08-31": 1440
     }
   },
   {
@@ -252,8 +251,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1776,
-    "timeDay": 1587,
-    "timeWeek": 1681,
+    "timeDay": 1662,
+    "timeWeek": 1639,
     "timeMonth": 1756,
     "timeYear": 1779,
     "dailyMinutesDown": {
