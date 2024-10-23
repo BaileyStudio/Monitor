@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bailey.studio.ico",
     "slug": "bailey-studio",
     "status": "up",
-    "uptime": "82.93%",
+    "uptime": "82.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "84.54%",
-    "uptimeYear": "53.04%",
+    "uptimeYear": "53.32%",
     "time": 632,
-    "timeDay": 583,
-    "timeWeek": 744,
-    "timeMonth": 722,
+    "timeDay": 610,
+    "timeWeek": 715,
+    "timeMonth": 718,
     "timeYear": 647,
     "dailyMinutesDown": {
       "2024-10-03": 583,
@@ -187,8 +187,7 @@
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
-      "2023-10-25": 1440,
-      "2023-10-24": 1440
+      "2023-10-25": 1440
     }
   },
   {
@@ -197,15 +196,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/warranty.buildsafe.co.uk.ico",
     "slug": "warranty-buildsafe-co-uk",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1784,
-    "timeDay": 1766,
-    "timeWeek": 1935,
-    "timeMonth": 1827,
+    "time": 1783,
+    "timeDay": 1736,
+    "timeWeek": 1906,
+    "timeMonth": 1818,
     "timeYear": 1778,
     "dailyMinutesDown": {
       "2024-01-03": 19
