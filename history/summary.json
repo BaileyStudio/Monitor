@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.01%",
+    "uptimeYear": "64.17%",
     "time": 640,
     "timeDay": 630,
     "timeWeek": 748,
@@ -156,9 +156,9 @@
     "url": "https://warranty.buildsafe.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/warranty.buildsafe.co.uk.ico",
     "slug": "warranty-buildsafe-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -168,6 +168,7 @@
     "timeMonth": 1859,
     "timeYear": 1786,
     "dailyMinutesDown": {
+      "2024-12-01": 0,
       "2024-01-03": 19
     }
   }
