@@ -6,13 +6,13 @@
     "slug": "bailey-studio",
     "status": "down",
     "uptime": "66.46%",
-    "uptimeDay": "85.48%",
-    "uptimeWeek": "86.26%",
+    "uptimeDay": "84.51%",
+    "uptimeWeek": "86.19%",
     "uptimeMonth": "33.56%",
     "uptimeYear": "15.37%",
     "time": 737,
     "timeDay": 259,
-    "timeWeek": 830,
+    "timeWeek": 811,
     "timeMonth": 754,
     "timeYear": 686,
     "dailyMinutesDown": {
@@ -330,7 +330,7 @@
       "2026-06-05": 266,
       "2026-06-06": 305,
       "2026-06-07": 209,
-      "2026-06-08": 0
+      "2026-06-08": 14
     }
   },
   {
@@ -350,7 +350,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-08": 117,
+      "2026-06-08": 131,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
