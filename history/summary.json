@@ -10,11 +10,11 @@
     "uptimeWeek": "98.68%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "15.23%",
-    "time": 752,
-    "timeDay": 716,
-    "timeWeek": 689,
-    "timeMonth": 822,
-    "timeYear": 755,
+    "time": 753,
+    "timeDay": 708,
+    "timeWeek": 737,
+    "timeMonth": 832,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2026-05-27": 478,
       "2026-05-26": 1440,
@@ -343,7 +343,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/warranty.buildsafe.co.uk.ico",
     "slug": "warranty-buildsafe-co-uk",
     "status": "down",
-    "uptime": "73.89%",
+    "uptime": "73.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -354,7 +354,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-09": 1135,
+      "2026-07-10": 84,
+      "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
@@ -717,8 +718,7 @@
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
-      "2025-07-11": 1440,
-      "2025-07-10": 1440
+      "2025-07-11": 1440
     }
   }
 ]
