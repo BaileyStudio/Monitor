@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bailey.studio.ico",
     "slug": "bailey-studio",
     "status": "up",
-    "uptime": "67.62%",
-    "uptimeDay": "96.38%",
+    "uptime": "67.63%",
+    "uptimeDay": "97.88%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.11%",
-    "uptimeYear": "22.27%",
-    "time": 740,
-    "timeDay": 1815,
-    "timeWeek": 938,
-    "timeMonth": 923,
-    "timeYear": 813,
+    "uptimeYear": "22.45%",
+    "time": 739,
+    "timeDay": 1949,
+    "timeWeek": 929,
+    "timeMonth": 931,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2026-05-27": 478,
       "2026-05-26": 1440,
@@ -297,7 +297,6 @@
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
-      "2025-08-19": 1440,
       "2026-06-01": 316,
       "2026-06-02": 289,
       "2026-06-05": 266,
@@ -322,7 +321,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/warranty.buildsafe.co.uk.ico",
     "slug": "warranty-buildsafe-co-uk",
     "status": "down",
-    "uptime": "72.43%",
+    "uptime": "72.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -333,7 +332,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 558,
+      "2026-08-19": 28,
+      "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -696,8 +696,7 @@
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
-      "2025-08-20": 1440,
-      "2025-08-19": 1440
+      "2025-08-20": 1440
     }
   }
 ]
